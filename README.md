@@ -1,6 +1,6 @@
 ## Olá, eu sou o Rodrigo! 👋
 
-🎓 Atualmente cursando graduação em **Análise e Desenvolvimento de Sistemas**.  
+🎓 Atualmente cursando em **Análise e Desenvolvimento de Sistemas**.  
 
 ---
 
