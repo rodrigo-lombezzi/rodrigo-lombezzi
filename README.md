@@ -6,8 +6,8 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Fatec Jales.
 
 <div align="center">
   <a href="https://github.com/rodrigo-lombezzi">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-lombezzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=c84d50"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-lombezzi&layout=compact&theme=dark&border_color=c84d50"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-lombezzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=c84d50"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-lombezzi&layout=compact&theme=dark&border_color=c84d50"/>
   </a>
 </div>
 
