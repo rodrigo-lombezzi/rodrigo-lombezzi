@@ -4,8 +4,7 @@
 
 ### Systems Analysis and Development Graduate from Fatec Jales
 
-💻 Back-end Developer  
-🚀 Passionate about software engineering and clean solutions  
+💻 Back-end Developer    
 📚 Constantly learning new technologies and improving my skills  
 
 </div>
