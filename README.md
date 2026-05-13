@@ -14,7 +14,7 @@ Graduated in **Systems Analysis and Development** from Fatec Jales.
 
 ---
 
-### Technologies I use:
+### Languages and Technologies I use:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C# logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -28,7 +28,7 @@ Graduated in **Systems Analysis and Development** from Fatec Jales.
 
 ---
 
-### Get in touch:
+### Reach me at:
 
 <div>
   <a href="https://www.linkedin.com/in/rodrigo-lombezzi/" target="_blank">
