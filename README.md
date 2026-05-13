@@ -1,37 +1,68 @@
-## Hello, I'm Rodrigo!
+<div align="left">
 
-Graduated in **Systems Analysis and Development** from Fatec Jales.
+# Hello, I'm Rodrigo
+
+### Systems Analysis and Development Graduate from Fatec Jales
+
+💻 Back-end Developer  
+🚀 Passionate about software engineering and clean solutions  
+📚 Constantly learning new technologies and improving my skills  
+
+</div>
+
+---
+
+<div align="left">
+
+## Technologies & Tools
+
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="C#" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Vite" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" alt="PostgreSQL" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="SQL Server" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="Docker" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Unity" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  <img align="center" alt="Git" height="45" width="55"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Power BI" height="45" width="55"
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+</div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/rodrigo-lombezzi">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-lombezzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_color=c84d50"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-lombezzi&layout=compact&theme=dark&border_color=c84d50"/>
-  </a>
+
+## GitHub Stats
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigo-lombezzi&background=0d1117&border=f0f1c7&stroke=428a91&ring=f0f1c7&fire=f0f1c7&currStreakNum=f0f1c7&sideNums=aecdc7&currStreakLabel=428a91&sideLabels=6f9c97&dates=aecdc7"
+/>
+
 </div>
 
-
----
-
-### Languages and Technologies I use:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="C# logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PostgreSQL logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Git logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
----
-
-### Reach me at:
+## Reach me at
 
 <div>
-  <a href="https://www.linkedin.com/in/rodrigo-lombezzi/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+    <a href="https://www.linkedin.com/in/rodrigo-lombezzi/" target="_blank">
+        <img src="https://img.shields.io/badge/-Rodrigo%20Lombezzi-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:rodrigoylombezzi@gmail.com">
+        <img src="https://img.shields.io/badge/-rodrigoylombezzi%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    </a>
 </div>
