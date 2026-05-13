@@ -1,6 +1,6 @@
-## Olá, eu sou o Rodrigo!
+## Hello, I'm Rodrigo!
 
-Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Fatec Jales.  
+Graduated in **Systems Analysis and Development** from Fatec Jales.
 
 ---
 
@@ -14,7 +14,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Fatec Jales.
 
 ---
 
-### Tecnologias que utilizo:
+### Technologies I use:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="C# logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -28,7 +28,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas** na Fatec Jales.
 
 ---
 
-### Entre em contato:
+### Get in touch:
 
 <div>
   <a href="https://www.linkedin.com/in/rodrigo-lombezzi/" target="_blank">
